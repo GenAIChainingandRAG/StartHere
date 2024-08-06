@@ -1,4 +1,4 @@
-## Course Schedule
+## Fundamentals of GenAI Chaining and RAG Schedule
 
 | **Time** | **Session** |
 |----------|-------------|
